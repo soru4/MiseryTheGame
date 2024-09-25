@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SceneBuilder
+comment1.params=gT\ bg\ rocks\ chains\ music
+comment1.target=SceneBuilder(java.lang.String,\ java.lang.String,\ boolean,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setGround()
+comment3.params=
+comment3.target=void\ ChooseWaterDropPos()
+comment4.params=
+comment4.target=void\ ChooseRockDropPos()
+comment5.params=
+comment5.target=void\ ChooseOb1Pos()
+comment6.params=
+comment6.target=void\ ChooseOb2Pos()
+comment7.params=
+comment7.target=void\ act()
+numComments=8

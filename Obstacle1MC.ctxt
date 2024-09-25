@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Obstacle1MC
+comment1.params=
+comment1.target=Obstacle1MC()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=anim
+comment3.target=void\ AnimationHelper(mayflower.MayflowerImage[])
+numComments=4

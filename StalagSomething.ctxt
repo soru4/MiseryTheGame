@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=StalagSomething
+comment1.params=
+comment1.target=StalagSomething()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StalagSomething\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=anim
+comment3.target=void\ AnimationHelper(mayflower.MayflowerImage[])
+numComments=4

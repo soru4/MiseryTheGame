@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=s
+comment1.target=Tile(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
